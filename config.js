@@ -1,6 +1,6 @@
 export default {
-  title: 'cat god 007', // 网站标题
-  nickName: "云与原", // 昵称
+  title: 'cat', // 网站标题
+  nickName: "cat god 007", // 昵称
   githubName: 'cat god 007', // github账户名
   githubRepo: 'nuxt2-blog', // 勿修改
   githubBranch: 'master', // 勿修改
